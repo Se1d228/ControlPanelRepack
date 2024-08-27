@@ -1,0 +1,1 @@
+Download source code, delete folders because I loaded only files, delete README, put remaining files to C:\Windows\System32\control (or just System32, but only on your risk) and you again have working control panel
